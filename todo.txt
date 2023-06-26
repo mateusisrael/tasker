@@ -1,12 +1,11 @@
 TODO
   - Salvar cores da aplicação como variáveis
-  - Criar tela de lista usando componentes material
   - Criar tela de edição de nova tarefa usando componentes material
   - Tela de Lista de usuário(lista temática criada pelo usuário) usando componentes material
 
 
 DOING
-
+  - Criar tela de lista (Today) usando componentes material 
 
 
 DONE

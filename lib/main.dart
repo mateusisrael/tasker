@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:tasker/screens/today.dart';
 import 'package:tasker/theme.dart';
 
 void main() {
@@ -44,12 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
         // the App.build method, and use it to set our appbar title.
         title: Text(widget.title),
       ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[],
-        ),
-      ),
+      body: TodayScreen(),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
         tooltip: 'Nova tarefa ou lista',
